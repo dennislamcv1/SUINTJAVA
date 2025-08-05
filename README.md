@@ -1,2 +1,6 @@
 # SUINTJAVA
-SkillUp EdTech Intermediate Java Development: Spring, Databases, Deployment Specialization
+## SkillUp EdTech Intermediate Java Development: Spring, Databases, Deployment Specialization
+
+According to Dice.com the average Java/J2EE developer earns just over USD 126,000 annually. This intermediate-level specialization is ideal for advancing your Java development skills and expanding your access to opportunities in in-demand backend and enterprise Java software roles. This specialization is designed for learners with foundational Java knowledge who want to build and deploy real-world applications using professional tools and modern best practices. You can gain these skills by completing the foundational courses available in the related professional certification or by bringing your foundational and object-oriented Java skills to these courses. 
+
+You'll begin this program by learning how to build secure, scalable Java applications with Spring Boot. You’ll create RESTful APIs, web forms, and implement authentication and role-based access with Spring Security. Next, you’ll connect Java applications to relational and NoSQL databases using JDBC,Hibernate, and Spring Boot. You’llmanage entity relationships and explore data integration in real-world apps. Finally, you’ll apply design patterns, implement automated testing with JUnit and Mockito, and deploy applications using Docker, Maven, and CI/CD pipelines in cloud-native environments.
